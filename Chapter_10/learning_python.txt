@@ -1,0 +1,3 @@
+In Python, you can define variables without assigning a data type.
+In Python, lists are mutable whereas strings and tuples are immutable.
+In Python, dictionaries store data in the form of key-value pairs.
